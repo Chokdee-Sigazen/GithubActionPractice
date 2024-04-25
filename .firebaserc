@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "fireship-lessons"
+    "-": "githubactiontest-421411",
+    "default": "githubactiontest-421411"
   }
 }
